@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+TestResults/
+
+# VS Code
+.vscode/
